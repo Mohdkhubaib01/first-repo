@@ -1,3 +1,3 @@
 # first-repo
 
-This si my firs Reposeitories.
+This si my firs Repositories.
